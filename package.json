@@ -1,0 +1,22 @@
+{
+    "name": "motss-html-snippets",
+    "publisher": "motss",
+    "description": "motss HTML snippets",
+    "displayName": "motss HTML snippets",
+    "version": "0.1.0",
+    "engines": {
+      "vscode": "0.10.x"
+    },
+    "categories": [
+      "Snippets"
+    ], 
+    "license": "SEE LICENSE IN LICENSE.md",
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/html.json"
+            }
+        ]
+    }
+}
