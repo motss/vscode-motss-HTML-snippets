@@ -3,7 +3,7 @@
     "publisher": "motss",
     "description": "motss HTML snippets",
     "displayName": "motss HTML snippets",
-    "version": "0.1.3",
+    "version": "0.1.4",
     "engines": {
         "vscode": "0.10.x"
     },
@@ -25,6 +25,6 @@
     "homepage": "https://github.com/motss/vscode-motss-HTML-snippets/blob/master/README.md",
     "repository": {
         "type": "git",
-        "url": "git@github.com:motss/vscode-motss-HTML-snippets.git"
+        "url": "https://github.com/motss/vscode-motss-HTML-snippets.git"
     }
 }
