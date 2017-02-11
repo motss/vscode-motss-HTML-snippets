@@ -1,5 +1,7 @@
 # vscode-motss-html-snippets
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/motss/vscode-motss-HTML-snippets.svg)](https://greenkeeper.io/)
+
 Simple snippet for writing native Web Components v1 for supported modern browsers in HTML:
   - Chrome 55+ - Native support for full Web Components v1.
   - Opera 42+ - Native support for full Web Components v1.
