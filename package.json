@@ -3,7 +3,7 @@
     "publisher": "motss",
     "description": "motss HTML snippets",
     "displayName": "motss HTML snippets",
-    "version": "0.2.1",
+    "version": "0.2.2",
     "engines": {
         "vscode": "0.10.x"
     },
