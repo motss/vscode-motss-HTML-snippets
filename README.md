@@ -16,6 +16,7 @@ Simple snippet for writing native Web Components v1 for supported modern browser
 ## Full list
   - __cee-v1-html__ - Extending Custom Elements v1
   - __cea-v1-html__ - Autonomous Custom Elements v1.
+  - __pcea__ - [Polymer.Element](https://www.polymer-project.org/2.0/docs/api/elements/Polymer.Element).
 
 ## License
 [MIT License](http://motss.mit-license.org/) © Rong Sen Ng
