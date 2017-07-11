@@ -15,7 +15,7 @@
 	}
 */
 "Native Autonomous Custom Element V1 in HTML": {
-		"prefix": "cea-html-v1",
+		"prefix": "cea",
 		"description": "Autonomous Custom Element V1 HTML snippet",
 		"body": [
 			"<template>",
@@ -80,7 +80,7 @@
 	},
 
 	"Native Extending Custom Element V1 in HTML": {
-		"prefix": "cee-html-v1",
+		"prefix": "cee",
 		"description": "Extending Custom Element V1 HTML snippet",
 		"body": [
 			"<template>",
